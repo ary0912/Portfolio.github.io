@@ -1,12 +1,16 @@
-# Portfolio.github.io
+# Personal Portfolio Website
 
-#Hello and welcome to my personal portfolio website on GitHub!
+# Link:- https://ary0912.github.io/Portfolio.github.io/
 
-##I am an enthusiastic full-stack MEAN web developer with a passion for creating beautiful and functional websites and applications. 
-##In addition to my web development skills, I am also interested in iOS app development and have experience working with Swift.
+# Hello and welcome to my personal portfolio website on GitHub!
 
-#This portfolio website serves as a showcase of my skills and projects. On the homepage, you will find a brief introduction about myself and my experience. You can also find links to my social media profiles and GitHub repositories.
+## I am an enthusiastic full-stack MEAN web developer with a passion for creating beautiful and functional websites and applications. 
+## In addition to my web development skills, I am also interested in iOS app development and have experience working with Swift.
 
-##I have also included a Contact page where you can get in touch with me if you have any questions or would like to discuss potential collaboration opportunities.
+# This portfolio website serves as a showcase of my skills and projects. On the homepage, you will find a brief introduction about myself and my experience. 
 
-##Thank you for visiting my portfolio website on GitHub. I hope you find it informative and enjoyable. Please feel free to reach out to me if you have any feedback or suggestions.
+## You can also find links to my social media profiles and GitHub repositories.
+
+## I have also included a Contact page where you can get in touch with me if you have any questions or would like to discuss potential collaboration opportunities.
+
+# Thank you for visiting my portfolio website on GitHub. I hope you find it informative and enjoyable. Please feel free to reach out to me if you have any feedback or suggestions.
